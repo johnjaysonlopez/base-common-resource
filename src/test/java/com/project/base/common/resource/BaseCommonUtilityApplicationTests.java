@@ -1,4 +1,4 @@
-package com.meteor.project;
+package com.project.base.common.resource;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
