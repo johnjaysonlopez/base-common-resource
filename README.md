@@ -1,1 +1,1 @@
-# spring-boot-oauth2-security
+# base-common-resource
