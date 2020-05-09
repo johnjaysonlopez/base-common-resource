@@ -1,4 +1,4 @@
-package com.meteor.project.base.common.resource;
+package com.project.base.common.resource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

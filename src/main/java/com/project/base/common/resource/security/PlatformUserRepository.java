@@ -1,4 +1,4 @@
-package com.meteor.project.base.common.resource.security;
+package com.project.base.common.resource.security;
 
 public interface PlatformUserRepository {
 

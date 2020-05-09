@@ -1,4 +1,4 @@
-package com.meteor.project.base.common.resource.client;
+package com.project.base.common.resource.client;
 
 import java.io.IOException;
 import java.io.Serializable;
@@ -19,7 +19,7 @@ import org.springframework.security.oauth2.provider.ClientDetails;
 import org.springframework.util.StringUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.meteor.project.base.common.resource.core.AbstractPersistableCustom;
+import com.project.base.common.resource.core.AbstractPersistableCustom;
 
 @Entity
 @Table(name = "client", uniqueConstraints = { @UniqueConstraint(columnNames = {"client_id"}) })

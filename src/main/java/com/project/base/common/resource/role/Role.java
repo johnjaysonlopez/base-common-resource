@@ -1,4 +1,4 @@
-package com.meteor.project.base.common.resource.role;
+package com.project.base.common.resource.role;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,8 +12,8 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
-import com.meteor.project.base.common.resource.core.AbstractPersistableCustom;
-import com.meteor.project.base.common.resource.permission.Permission;
+import com.project.base.common.resource.core.AbstractPersistableCustom;
+import com.project.base.common.resource.permission.Permission;
 
 import lombok.Getter;
 

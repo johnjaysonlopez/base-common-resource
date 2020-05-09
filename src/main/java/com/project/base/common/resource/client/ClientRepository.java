@@ -1,4 +1,4 @@
-package com.meteor.project.base.common.resource.client;
+package com.project.base.common.resource.client;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;

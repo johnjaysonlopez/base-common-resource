@@ -1,10 +1,10 @@
-package com.meteor.project.base.common.resource.permission;
+package com.project.base.common.resource.permission;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-import com.meteor.project.base.common.resource.core.AbstractPersistableCustom;
+import com.project.base.common.resource.core.AbstractPersistableCustom;
 
 import lombok.Getter;
 
