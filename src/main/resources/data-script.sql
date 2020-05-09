@@ -16,7 +16,7 @@ VALUES(1, 1);
 
 INSERT INTO public."user"
 (id, nonexpired, nonlocked, nonexpired_credentials, is_deleted, email, enabled, firstname, last_time_password_updated, lastname, "password", password_never_expires, username)
-VALUES(1, false, false, false, false, 'johnjaysonlopez28@gmail.com', true, 'John Jayson', '2019-05-14', 'Lopez', '$2a$08$1qi/gomFpE.37.IhaEUbCOEZFRDLf1ssMpoiaKPHTjzU5Lt0a3XCi', true, 'johnjaysonlpz');
+VALUES(1, true, true, true, false, 'johnjaysonlopez28@gmail.com', true, 'John Jayson', '2019-05-14', 'Lopez', '$2a$08$1qi/gomFpE.37.IhaEUbCOEZFRDLf1ssMpoiaKPHTjzU5Lt0a3XCi', true, 'johnjaysonlpz');
 
 INSERT INTO public."user_role"
 (user_id, role_id)
