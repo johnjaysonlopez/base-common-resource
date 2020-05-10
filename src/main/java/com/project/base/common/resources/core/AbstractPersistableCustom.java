@@ -1,4 +1,4 @@
-package com.project.base.common.resource.core;
+package com.project.base.common.resources.core;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.project.base.common.resource.security;
+package com.project.base.common.resources.security;
 
 public interface PlatformUserRepository {
 

@@ -1,10 +1,10 @@
-package com.project.base.common.resource.permission;
+package com.project.base.common.resources.permission;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-import com.project.base.common.resource.core.AbstractPersistableCustom;
+import com.project.base.common.resources.core.AbstractPersistableCustom;
 
 import lombok.Getter;
 

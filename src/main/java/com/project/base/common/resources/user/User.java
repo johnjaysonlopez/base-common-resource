@@ -1,4 +1,4 @@
-package com.project.base.common.resource.user;
+package com.project.base.common.resources.user;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -21,10 +21,10 @@ import javax.persistence.UniqueConstraint;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
-import com.project.base.common.resource.core.AbstractPersistableCustom;
-import com.project.base.common.resource.permission.Permission;
-import com.project.base.common.resource.role.Role;
-import com.project.base.common.resource.security.PlatformUser;
+import com.project.base.common.resources.core.AbstractPersistableCustom;
+import com.project.base.common.resources.permission.Permission;
+import com.project.base.common.resources.role.Role;
+import com.project.base.common.resources.security.PlatformUser;
 
 @Entity
 @Table(name = "user", uniqueConstraints = @UniqueConstraint(columnNames = { "username" }, name = "username_org"))

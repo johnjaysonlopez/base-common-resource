@@ -12,9 +12,9 @@
 	</parent>
 
 	<groupId>com.project</groupId>
-	<artifactId>base-common-resource</artifactId>
+	<artifactId>base-common</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Base Common Resource</name>
+	<name>Base Common</name>
 	<description>Base Common Resource Utility</description>
 
 	<properties>
